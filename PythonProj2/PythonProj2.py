@@ -3,10 +3,10 @@ import json
 def Dictionary():
     d = {'t': -18, 'b': -5, 'h': -18, 'y': 16, 'a': 6}
     print(d.keys())
-    c = {'da': 111, 'net': 222, 't': -22}
+    c = {'kak': 11, 'tak': 22, 't': -88}
     d = {**d, **c}
     print(d.items())
-    a = [1, 5, 9]
+    a = [2, 2, 8, 8]
     d["a"] = a
     with open("js.json", "w") as file:
         file.write(json.dumps(d))
