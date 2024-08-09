@@ -11,6 +11,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonProj3", "PythonProj3\
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonProj4", "PythonProj4\PythonProj4.pyproj", "{BB3ED0D5-E32B-45C7-AE23-4F8A7F1107EB}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeuralNets", "NeuralNets\NeuralNets.pyproj", "{35045802-659A-4368-AE1E-0BBCE1F1A1C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,8 @@ Global
 		{F9E728A0-DB55-4D19-8E44-A0C09C1CB20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3ED0D5-E32B-45C7-AE23-4F8A7F1107EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BB3ED0D5-E32B-45C7-AE23-4F8A7F1107EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35045802-659A-4368-AE1E-0BBCE1F1A1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35045802-659A-4368-AE1E-0BBCE1F1A1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
